@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(49, 48, 66);
+}
+.header{
+    display: inline-block;
+    padding: 20px;
+    color:rgb(245, 236, 220)
+}
+
+#navitem-login{
+    color:white;
+    background: rgb(43, 175, 94);
+    border-radius: 10px;
+}
