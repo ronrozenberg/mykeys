@@ -35,3 +35,16 @@ body{
     background: rgb(43, 175, 94);
     border-radius: 10px;
 }
+
+.title{
+    color:rgb(245, 236, 220);
+    text-align: center;
+}
+
+.submit{
+    background-color: rgb(43, 175, 94);
+    color: white;
+    border-style: none;
+    border-radius: 1vh;
+    display:inline-block;
+}
